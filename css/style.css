@@ -31,11 +31,7 @@
     justify-content: center;
 }
 
-.carousel-p h1{
-    color: white;
-    font-weight: bolder;
-    font-size: 60px;
-}
+
 .carousel-p p{
     color: white;
 }
@@ -286,6 +282,11 @@
         display: flex;
         justify-content: center;
     }
+    .carousel-p h1{
+        color: white;
+        font-weight: bolder;
+        font-size: 60px;
+    }
     .brand-head{
         display: none;
     }
@@ -335,6 +336,11 @@
         text-align: start;
         padding-left: 140px;
     }
+    .carousel-p h1{
+        color: white;
+        font-weight: bolder;
+        font-size: 40px;
+    }
     .box{
         background-color: #7fd7eb;
         padding: 45px 10px 40px 10px;
@@ -352,6 +358,11 @@
         align-items: center;
         text-align: center;
         padding: 0 100px 25px 100px;
+    }
+    .carousel-p h1{
+        color: white;
+        font-weight: bolder;
+        font-size: 30px;
     }
     .box{
         background-color: #7fd7eb;
